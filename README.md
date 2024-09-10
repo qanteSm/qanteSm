@@ -13,7 +13,7 @@
 
 ## 💻 Teknoloji Yığınım:
 
-[![Node.js, React Native, TypeScript, PHP, C#, C++](https://skillicons.dev/icons?i=nodejs,react,ts,php,csharp,cplusplus)](https://skillicons.dev)
+[![Node.js, React Native, TypeScript, PHP, C#, C++](https://skillicons.dev/icons?i=nodejs,react,ts,php,cs,cpp)](https://skillicons.dev)
 
 
 
