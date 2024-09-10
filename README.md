@@ -17,7 +17,7 @@
 
 
 
-## 🏆 My Stats:
+## 🏆 İstatistiklerim:
 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qantesm&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
