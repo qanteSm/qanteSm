@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Selam Dünya, Ben Ferwle!](assets/ferwle.jpg)](https://github.com/qantesm)
+[![Selam Dünya, Ben Ferwle!](assets/ferwleBanner.jpg)](https://github.com/qantesm)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammet-ali-buyuk/) &nbsp;
